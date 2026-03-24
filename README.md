@@ -26,7 +26,7 @@ Aplicación full-stack construida con **Spring Boot** que permite gestionar prod
 
 ## ⚙️ Requisitos previos
 
-- **Java 17** (JDK 17 LTS)
+- **Java 21** (JDK 21 LTS)
 - **Maven 3.8+**
 - IntelliJ IDEA (recomendado) o cualquier IDE con soporte Maven
 
