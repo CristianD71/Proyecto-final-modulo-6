@@ -14,7 +14,7 @@ Aplicación full-stack construida con **Spring Boot** que permite gestionar prod
 
 | Capa | Tecnología |
 |------|------------|
-| Backend | Java 17 · Spring Boot 3.2.5 |
+| Backend | Java 21 · Spring Boot 3.2.5 |
 | Persistencia | Spring Data JPA · Hibernate |
 | Base de datos | H2 (desarrollo) · MySQL (producción) |
 | Seguridad | Spring Security 6 |
